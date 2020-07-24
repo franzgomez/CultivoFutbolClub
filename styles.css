@@ -251,6 +251,12 @@ hr {
 
     .showcase { 
         font-size: 15px;
+        margin-bottom: 15px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-end;
+        text-align-last: center;
     }
 
     .nav-main ul.nav-menu.show {
@@ -282,6 +288,12 @@ hr {
 
       .showcase { 
         font-size: 10px;
+        margin-bottom: 10px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-end;
+        text-align-last: center;
     }
 
     .news-cards img {
