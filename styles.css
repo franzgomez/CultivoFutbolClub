@@ -249,6 +249,10 @@ hr {
         opacity: .9;
     }
 
+    .showcase { 
+        font-size: 15px;
+    }
+
     .nav-main ul.nav-menu.show {
         transform: translateX(-20px);
     }
@@ -274,6 +278,10 @@ hr {
 @media (max-width: 500px) {
     .news-cards {
        grid-template-columns: 1fr; 
+    }
+
+      .showcase { 
+        font-size: 10px;
     }
 
     .news-cards img {
